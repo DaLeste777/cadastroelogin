@@ -1,0 +1,33 @@
+.body{
+    background-color: aqua;   
+}
+
+
+#card{
+    border-radius: 5%;
+    width: 400px;
+    height: 300px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 35%;
+    margin-top: 10%;
+  
+  
+}
+
+.icone {
+   width: 30px;
+}
+
+
+.form-itens{
+    align-items: center;
+    flex-direction: flex;
+    justify-content: center;
+}
+
+
+
+
